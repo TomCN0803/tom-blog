@@ -2,21 +2,18 @@
 title: 汤昊坤
 draft: false
 role: 硕士研究生
-avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+avatar: images/author/TomCN0803/bio_avatar.jpg
+bio: 
 organization:
   name: 北京理工大学
   url: https://bit.edu.cn
 social:
   - icon: envelope
-    iconPack: fas
-    url: mailto:example@example.com
-  - icon: twitter
-    iconPack: fab
-    url: https://example.com/
+    iconPack: fa-solid
+    url: mailto:tomfff@163.com
   - icon: github
-    iconPack: fab
-    url: https://example.com/
+    iconPack: fa-brands
+    url: https://github.com/TomCN0803
 
 weight: 1
 widget:

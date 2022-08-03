@@ -1,12 +1,12 @@
 ---
-title: Pages
+title: 精彩文章
 draft: false
 # Section you want to display
 section: posts
 # Pages count
 count: 5
 # Options: card, plain and masonry.
-style: plain
+style: card
 
 weight: 2
 widget:
