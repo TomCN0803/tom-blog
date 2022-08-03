@@ -1,12 +1,12 @@
 ---
-title: Example Author
+title: 汤昊坤
 draft: false
-role: Example Role
+role: 硕士研究生
 avatar: images/icon.png
 bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
 organization:
-  name: Example Organization
-  url: https://example.com/
+  name: 北京理工大学
+  url: https://bit.edu.cn
 social:
   - icon: envelope
     iconPack: fas
@@ -23,7 +23,7 @@ widget:
   handler: about
 
   # Options: sm, md, lg and xl. Default is md.
-  width:
+  width: lg
 
   sidebar:
     # Options: left and right. Leave blank to hide.
