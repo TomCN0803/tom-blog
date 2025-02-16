@@ -1,18 +1,18 @@
 ---
 title: 汤昊坤
 draft: false
-role: 硕士研究生
+role: 软件开发工程师（服务端）
 avatar: images/author/TomCN0803/bio_avatar.jpg
-bio: 
-organization:
-  name: 北京理工大学
-  url: https://bit.edu.cn
+bio: >
+  - ✍️ 微信公众号：凑个整数1024
+
+  - 📺 B 站技术分享：[TomCN0803](https://space.bilibili.com/5613372)
 social:
   - icon: envelope
-    iconPack: fa-solid
+    iconPack: fas
     url: mailto:tomfff@163.com
   - icon: github
-    iconPack: fa-brands
+    iconPack: fab
     url: https://github.com/TomCN0803
 
 weight: 1
