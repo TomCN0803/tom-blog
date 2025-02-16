@@ -6,7 +6,7 @@ avatar: images/author/TomCN0803/bio_avatar.jpg
 bio: >
   - ✍️ 微信公众号：凑个整数1024
 
-  - 📺 B 站技术分享：[TomCN0803](https://space.bilibili.com/5613372)
+  - 📺 B 站技术分享：<span style="color: blue"><u>[TomCN0803](https://space.bilibili.com/5613372)</u></span>
 social:
   - icon: envelope
     iconPack: fas
